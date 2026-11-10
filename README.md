@@ -43,7 +43,8 @@
 ## Challenge 4 : MCD des potions
 
 <p align="center">
-  <img src="mcd.png" alt="MCD Potion - Ingredient" width="800">
+  <img width="1161" height="292" alt="Sans-titre-2026-10-14-1027" src="https://github.com/user-attachments/assets/99fdf3fd-3eb0-4187-a5dc-b81bf93295c0" />
+
 </p>
 
 ### Le problème à modéliser
